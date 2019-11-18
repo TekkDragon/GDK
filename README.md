@@ -16,3 +16,13 @@
 * Visual Studio 2017 - 2019
 * Unreal Engine 4.23.1 Source code
 * .NET Framework
+* GIT for Windows
+
+<h1 align="center">Installation</h1>
+
+* Step 1 : Install the following dependencies before starting installation.
+* Step 2 : Execute the Install.bat file. (This may take up to 10-30mins depending on your connection speed)
+* Step 3 : Open the UE4 Visutal Studio file.
+* Step 4 : Build the UE4 Project to start.
+* Step 5 : Execute the GDKSetup.bat before launching GDK
+* Step 6 : Make sure GDK is installed correctly if any issues occur let us know!
