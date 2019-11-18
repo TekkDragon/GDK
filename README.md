@@ -6,7 +6,7 @@
 Getting up and running
 
 
-The steps below will take you through installing the Givre: Developement Kit then compiling and running the editor yourself:
+<p align="center">The steps below will take you through installing the Givre: Developement Kit then compiling and running the editor yourself:<p align="center">
 
 
 > The GDK is only suppoorted on windows 10 and higher. Please do not report a bug for the GDK if you have the incorrect requirements
